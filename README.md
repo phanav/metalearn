@@ -56,3 +56,6 @@ https://arxiv.org/abs/1803.02999
 
 [2]MAML:
 http://proceedings.mlr.press/v70/finn17a
+
+Inspired by 
+https://github.com/gebob19/REPTILE-Metalearning/blob/master/omniglot_trainer.ipynb
