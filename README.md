@@ -26,6 +26,8 @@ Adapted from https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and
 
 ## Basic usage
 
+### Input
+
 Critical input variable are at the top of the Jupyter notebook or python script.
 By default, expected input are images and a label file.
 `datadir` contains an `images` folder with all images in flat structure, i.e. as direct children.
@@ -40,6 +42,8 @@ The column names are specified by 2 variables:
 `resultprefix`: prefix for output file
  
  `random_seed`: can be set to None
+
+### Output
 
 Evaluation metrics are saved in a `assessment.csv` file in `resultdir/metric`.
 
