@@ -35,6 +35,12 @@ By default, expected input are images and a label file.
 The column names are specified by 2 variables: 
 `filecolumn, labelcolumn`
 
+An example is in the link below. `info.json` file is ignored.
+
+https://github.com/ihsanullah2131/metadl_contrib/tree/master/DataFormat/mini_insect_3
+
+<br>
+
 `resultdir`: location to save result
 
 `dataname`: result are saved in this folder inside the resultdir
