@@ -28,7 +28,7 @@ Adapted from https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and
 
 ### Input
 
-Critical input variable are at the top of the Jupyter notebook or python script.
+Critical input variables are at the top of the Jupyter notebook or python script in the `src` folder.
 By default, expected input are images and a label file.
 `datadir` contains an `images` folder with all images in flat structure, i.e. as direct children.
 `datadir` also contains a metadata file, having at least 2 columns: filename and label.
