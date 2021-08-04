@@ -42,6 +42,7 @@ The column names are specified by 2 variables:
  `random_seed`: can be set to None
 
 Evaluation metrics are saved in a `assessment.csv` file in `resultdir/metric`.
+
 The meta model is saved in `resultdir/model`
 
 ## References
