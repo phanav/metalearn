@@ -11,11 +11,15 @@ Intuition for Reptile and MAML:
 </div>
 Figure by author.
 
+<br>
+
 Overview of MAML algorithm:
 <div>
 <img src="fig/maml-algorithm.png" width=600>
 </div>
 Figure by author.
+
+<br>
 
 Few shot episode setting:
 <div>
