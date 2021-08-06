@@ -11,7 +11,7 @@ Intuition for Reptile and MAML:
 </div>
 Figure by author.
 
-<br>
+<br><br>
 
 Overview of MAML algorithm:
 <div>
@@ -19,13 +19,14 @@ Overview of MAML algorithm:
 </div>
 Figure by author.
 
-<br>
+<br><br>
 
 Few shot episode setting:
 <div>
 <img src="fig/few-shot-episode.png" width=600>
 </div>
 Adapted from https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/
+
 
 
 ## Basic usage
@@ -61,6 +62,7 @@ Evaluation metrics are saved in a `assessment.csv` file in `resultdir/metric`.
 The meta model is saved in `resultdir/model`
 
 
+
 ## References
 
 [1]Reptile:
@@ -71,6 +73,7 @@ http://proceedings.mlr.press/v70/finn17a
 
 Inspired by 
 https://github.com/gebob19/REPTILE-Metalearning/blob/master/omniglot_trainer.ipynb
+
 
 
 ## Related links
