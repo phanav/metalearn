@@ -49,11 +49,13 @@ https://github.com/ihsanullah2131/metadl_contrib/tree/master/DataFormat/mini_ins
  
  `random_seed`: can be set to None
 
+
 ### Output
 
 Evaluation metrics are saved in a `assessment.csv` file in `resultdir/metric`.
 
 The meta model is saved in `resultdir/model`
+
 
 ## References
 
@@ -65,3 +67,8 @@ http://proceedings.mlr.press/v70/finn17a
 
 Inspired by 
 https://github.com/gebob19/REPTILE-Metalearning/blob/master/omniglot_trainer.ipynb
+
+
+## Related links
+Baseline models are here:
+https://github.com/phanav/benchmark
