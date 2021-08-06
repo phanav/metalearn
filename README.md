@@ -1,9 +1,9 @@
-Implementation of Reptile <a href="#References">[1]</a> in PyTorch.
+Implementation of Reptile (Nichol et al.) <a href="#References">[1]</a> in PyTorch.
 
 Meta learning can be understood as finding an efficient model training procedure.
 For this purpose, the Reptile algorithm attempts to find good model parameter initilization.
 A good parameter initialization here means the parameters can be easily adapted for many tasks, after a few update steps.
-Reptile is a variant of fo-MAML <a href="#References">[2]</a> (1st order Model Agnostic Meta Learning)
+Reptile is a variant of fo-MAML (Finn et al.) <a href="#References">[2]</a> (1st order Model Agnostic Meta Learning)
 
 Intuition for Reptile and MAML:
 <div>
